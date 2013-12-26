@@ -1,12 +1,15 @@
 
-/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "FMv-K9-UR2"; */
-"FMv-K9-UR2.title" = "Item";
+/* Class = "IBUIBarButtonItem"; title = "Añadir"; ObjectID = "FMv-K9-UR2"; */
+"FMv-K9-UR2.title" = "Añadir";
 
-/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "TZq-C5-gw9"; */
-"TZq-C5-gw9.title" = "Item";
+/* Class = "IBUIBarButtonItem"; title = "Borrar"; ObjectID = "TZq-C5-gw9"; */
+"TZq-C5-gw9.title" = "Borrar";
 
-/* Class = "IBUILabel"; text = "Label"; ObjectID = "dtD-SE-6mI"; */
-"dtD-SE-6mI.text" = "Label";
+/* Class = "IBUILabel"; text = "La etiqueta"; ObjectID = "dtD-SE-6mI"; */
+"dtD-SE-6mI.text" = "La etiqueta";
 
-/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "xDw-Li-cqW"; */
-"xDw-Li-cqW.normalTitle" = "Button";
+/* Class = "IBUILabel"; text = "Otra etiqueta"; ObjectID = "rMo-Ky-4ix"; */
+"rMo-Ky-4ix.text" = "Otra etiqueta";
+
+/* Class = "IBUIButton"; normalTitle = "El botón"; ObjectID = "xDw-Li-cqW"; */
+"xDw-Li-cqW.normalTitle" = "El botón";

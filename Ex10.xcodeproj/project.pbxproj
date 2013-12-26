@@ -54,6 +54,8 @@
 		BADBBE14186C3B550098F7A7 /* Ex10Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ex10Tests.m; sourceTree = "<group>"; };
 		BADBBE21186C3CA60098F7A7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		BADBBE23186C3D410098F7A7 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BADBBE30186C42690098F7A7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		BADBBE32186C42880098F7A7 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -280,6 +282,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				BADBBDFC186C3B550098F7A7 /* Base */,
+				BADBBE30186C42690098F7A7 /* en */,
+				BADBBE32186C42880098F7A7 /* es */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

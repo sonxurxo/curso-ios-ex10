@@ -19,10 +19,6 @@
     [super viewDidLoad];
     
     // genstrings -o en.lproj *.m
-    self.label.text = NSLocalizedString(@"The label", @"La primera etiqueta");
-    [self.button setTitle:NSLocalizedString(@"The button", @"El primer botón") forState:UIControlStateNormal];
-    [self.toolbarButton1 setTitle:NSLocalizedString(@"Add", @"Botón de añadir")];
-    [self.toolbarButton2 setTitle:NSLocalizedString(@"Delete", @"Botón de borrar")];
 }
 
 - (void)didReceiveMemoryWarning

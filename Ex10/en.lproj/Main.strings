@@ -1,0 +1,15 @@
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "FMv-K9-UR2"; */
+"FMv-K9-UR2.title" = "Item";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "TZq-C5-gw9"; */
+"TZq-C5-gw9.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "dtD-SE-6mI"; */
+"dtD-SE-6mI.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Another label"; ObjectID = "rMo-Ky-4ix"; */
+"rMo-Ky-4ix.text" = "Another label";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "xDw-Li-cqW"; */
+"xDw-Li-cqW.normalTitle" = "Button";
